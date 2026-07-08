@@ -1,0 +1,6 @@
+.personal/*
+!.personal/.gitkeep
+.presonal/
+invoice_details/*
+!invoice_details/.gitkeep
+invoice_product_hit_report.csv
